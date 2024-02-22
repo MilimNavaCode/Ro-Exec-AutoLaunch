@@ -12,4 +12,4 @@ Before you do anything you will need to change the directory in the code where i
 First Install python from https://www.python.org/downloads/ then make suer you run it as admin and add to path in the loader THIS IS IMPORTANT THAT YOU ADD TO PATH. Then run start.bat
 
 # Note
-make sure that start.bat and main.py are in the same folder locaion
+make sure that start.bat and main.py are in the same folder locaion as Krampus folder
